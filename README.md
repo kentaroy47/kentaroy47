@@ -1,16 +1,15 @@
-### Hi there 👋
+# Kentaro Yoshioka
+### or arutema47
+- Ph.D Hardware researcher
+- ex. Stanford Visiting Scholar
 
-<!--
-**kentaroy47/kentaroy47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in building efficient and fast systems!
 
-Here are some ideas to get you started:
+**Links** 
+| [Google Scholar](https://scholar.google.co.jp/citations?user=jSxIrBEAAAAJ&hl=en)
+| [Twitter](https://twitter.com/arutema47) 
+| [Kaggle](https://www.kaggle.com/kyoshioka47) 
+| [LinkedIn](https://www.linkedin.com/in/kyoshioka47/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Profile](https://github-readme-stats.vercel.app/api?username=kentaroy47&count_private=true)
