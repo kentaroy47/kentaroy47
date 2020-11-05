@@ -2,6 +2,7 @@
 ### or arutema47
 - Ph.D Hardware researcher
 - ex. Stanford Visiting Scholar
+- Kaggle Master
 
 I'm interested in building efficient and fast systems!
 
