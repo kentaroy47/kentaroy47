@@ -1,7 +1,7 @@
 # Kentaro Yoshioka or arutema47
 **DO NOT** email me for questions on the repos! I will not answer independent questions.
 
-Please post an issue so others can share knowledge.
+**Please post an issue so others can share knowledge.**
 
 - Ph.D Hardware researcher
 - ex. Stanford Visiting Scholar
