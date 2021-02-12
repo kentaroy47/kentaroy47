@@ -1,5 +1,5 @@
 # Kentaro Yoshioka or arutema47
-**DO NOT** email me for questions on the repos!
+**DO NOT** email me for questions on the repos! I will not answer independent questions.
 
 Please post an issue so others can share knowledge.
 
