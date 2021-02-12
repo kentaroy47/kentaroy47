@@ -1,5 +1,8 @@
-# Kentaro Yoshioka
-### or arutema47
+# Kentaro Yoshioka or arutema47
+**DO NOT** email me for questions on the repos!
+
+Please post an issue so others can share knowledge.
+
 - Ph.D Hardware researcher
 - ex. Stanford Visiting Scholar
 - Kaggle Master
