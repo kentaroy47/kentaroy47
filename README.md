@@ -15,3 +15,5 @@ I'm interested in building efficient and fast systems!
 
 
 ![Profile](https://github-readme-stats.vercel.app/api?username=kentaroy47&count_private=true)
+
+[](![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/kyoshioka47/competition/light))
