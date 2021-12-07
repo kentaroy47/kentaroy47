@@ -1,4 +1,4 @@
-# Kentaro Yoshioka or arutema47
+# Kentaro Yoshioka
 
 **Please post an issue so others can share knowledge.**
 
