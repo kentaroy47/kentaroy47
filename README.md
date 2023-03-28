@@ -4,7 +4,7 @@
 
 - Ph.D Hardware researcher
 - ex. Stanford Visiting Scholar
-- Kaggle Master (1st PANDA competition, 13th NFL Impact detection)
+- Kaggle Master (1st PANDA competition, 7th NFL Contact detection, 13th NFL Impact)
 
 I'm interested in building efficient and fast systems!
 
