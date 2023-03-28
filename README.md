@@ -2,7 +2,7 @@
 
 **Please post an issue so others can share knowledge.**
 
-- Ph.D Hardware researcher
+- Keio University Assistant Professor |[Website](https://sites.google.com/keio.jp/keio-csg/)|[Twitter](https://twitter.com/keiocsg)|
 - ex. Stanford Visiting Scholar
 - Kaggle Master (1st PANDA competition, 7th NFL Contact detection, 13th NFL Impact)
 
