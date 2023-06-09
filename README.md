@@ -1,10 +1,8 @@
 # Kentaro Yoshioka
 
-**Please post an issue so others can share knowledge.**
-
 - Keio University Assistant Professor |[Website](https://sites.google.com/keio.jp/keio-csg/)|[Twitter](https://twitter.com/keiocsg)|
 - ex. Stanford Visiting Scholar
-- Kaggle Master (1st PANDA competition, 7th NFL Contact detection, 13th NFL Impact)
+- Kaggle Master (1st PANDA competition, 7th NFL Contact detection, 13th NFL Impact, 15th GoogleISL)
 
 I'm interested in building efficient and fast systems!
 
