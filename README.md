@@ -1,6 +1,7 @@
 # Kentaro Yoshioka
 
-- Keio University Assistant Professor |[Website](https://sites.google.com/keio.jp/keio-csg/)|[Twitter](https://twitter.com/keiocsg)|
+- Keio University Assistant Professor
+- Director of Keio CSG [Github](https://github.com/Keio-CSG) | [Website](https://sites.google.com/keio.jp/keio-csg/)
 - ex. Stanford Visiting Scholar
 - Kaggle Master (1st PANDA competition, 7th NFL Contact detection, 13th NFL Impact, 15th GoogleISL)
 
